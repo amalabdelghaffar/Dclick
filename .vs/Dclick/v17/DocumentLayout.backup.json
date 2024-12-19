@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amal\\source\\repos\\Dclick\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|c:\\users\\amal\\source\\repos\\dclick\\dclick\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE1005AC-4DE6-4CCC-98EF-4B3A152D41B8}|Dclick\\Dclick.csproj|solutionrelative:dclick\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Dclick\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Dclick\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T08:41:29.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Program.cs",
+              "RelativeDocumentMoniker": "Dclick\\Program.cs",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Program.cs",
+              "RelativeToolTip": "Dclick\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:39:07.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:05:05.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Dclick\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Dclick\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:58:25.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dclick\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dclick\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:56:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Dclick\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Dclick\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:48:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Dclick\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Dclick\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:47:20.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\amal\\source\\repos\\Dclick\\Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Dclick\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:48:47.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
